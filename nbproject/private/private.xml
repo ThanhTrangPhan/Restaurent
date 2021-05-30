@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/dao/SupplierDAO.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/model/Invoice.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/test/dao/IngredientDAOTest.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/dao/InvoiceDAO.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/model/Staff.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/model/Ingredient.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/view/AddIngredientFrm.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/dao/IngredientDAO.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/view/ConfirmFrm.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/view/SearchIngredientFrm.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/model/DetailStock_Ingredient.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/src/view/LoginFrm.java</file>
+            <file>file:/home/demo/NetBeansProjects/restaurant_StockIngredient/test/dao/SupplierDAOTest.java</file>
+        </group>
+    </open-files>
+</project-private>
